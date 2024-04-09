@@ -969,6 +969,9 @@ header {
     font-size: 14px;
     padding: 0px 10px;
   }
+  .logo span img {
+    width: 40%;
+  }
 }
 .container {
   padding: 40px;
