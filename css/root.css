@@ -1,0 +1,11 @@
+:root {
+  --border: #ef6817;
+  --bgnav: #333;
+  --bg: #dee1e2;
+  --bg1: #dee1e2;
+  --bg2: #dee1e2;
+  --bg3: #637c8c;
+  --bg4: #aab6aa;
+  --bgtext: #333;
+  --chadowcontent: 0px 5px 10px 0px rgba(0, 0, 0, 0.4);
+}
